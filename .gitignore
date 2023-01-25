@@ -1,0 +1,6 @@
+# System Files
+Thumbs.db
+
+*.lnk
+
+*.venv
